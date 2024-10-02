@@ -45,7 +45,20 @@ header, footer {
 /* WRITE YOUR CODE BELOW HERE */
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400&family=Merriweather&display=swap');
 
-.body{
-  font-family: 'Merriweather', serif;
+body{
+  font-family: 'Monospace', serif;
   font-size: 0.625rem;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Roboto Slab', sans-serif;
+}
+
+nav li{
+  background-color: cornsilk;
+  border: 1px solid maroon;
+  padding: 0.5rem 1rem;
+  margin-bottom: 0.25rem;
+  list-style-type: none;
+  text-align: center;
 }
