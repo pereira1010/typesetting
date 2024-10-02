@@ -62,3 +62,17 @@ nav li{
   list-style-type: none;
   text-align: center;
 }
+
+a:link{
+  color: #a66;
+}
+a:hover{
+  color: blue;
+}
+a:visited{
+  color: blueviolet;
+}
+aside li{
+  
+
+}
