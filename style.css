@@ -52,8 +52,9 @@ body{
   word-spacing: normal;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2 {
   font-family: 'Roboto Slab', sans-serif;
+  word-spacing: 0.75rem;
 }
 section h2 + p{
   text-indent: 1.25rem;
@@ -61,31 +62,37 @@ section h2 + p{
 nav li{
   background-color: cornsilk;
   border: 1px solid maroon;
-  padding: 0.75rem 1rem;
+  border-radius: 5px;
+  padding: 0.95rem 1rem;
   margin-bottom: 1.25rem;
   list-style-type: none;
   text-align: center;
   line-height: normal;
-}
-
-nav a{
-  font-family: 'Roboto Slab', sans-serif;
   font-size: 1rem;
-  color:#a66;
+  color: #a66;
   text-decoration: none;
 }
 
+a{
+  outline-color: transparent;
+}
 a:link{
-  color: #a66;
-  
+  color: green;
+  text-decoration: none;
 }
 a:visited{
   color:blueviolet;
+}
+a:focus{
+  outline: none;
 }
 a:hover{
   color: rgb(224, 98, 20);
   
 }
-a:focus{
-  outline: none;
+a:active{
+
+}
+section > p{
+  line-height: 1.4rem;
 }
