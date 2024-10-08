@@ -112,4 +112,6 @@ p a {
 }
 aside a{
   border-bottom: 0.05rem solid #a66;  
+  display: flexbox;
+  align-items: center;
 }
