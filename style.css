@@ -75,11 +75,12 @@ nav li{
 
 a{
   outline-color: transparent;
-  border-bottom: 0.05rem solid #a66;
+  
 }
 a:link{
   color: green;
   text-decoration: none;
+
 }
 a:visited{
   color:blueviolet;
@@ -92,8 +93,14 @@ a:hover{
   
 }
 a:active{
-box-shadow: 0.125rem 0.125rem 0.3rem maroon;
+  box-shadow: 0.125rem 0.125rem 0.3rem maroon;
 }
 section > p{
   line-height: 1.2rem;
+}
+p a {
+  border-bottom: 0.05rem solid #a66;
+}
+aside a{
+  border-bottom: 0.05rem solid #a66;  
 }
