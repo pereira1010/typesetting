@@ -59,26 +59,35 @@ h1, h2 {
 section h2 + p{
   text-indent: 1.25rem;
 }
-nav li{
-  background-color: cornsilk;
+
+nav ul{
+  list-style-type: none;
+  padding: 0%;
+  margin: none;
+
+}
+nav a{
+  color: #a66;
+  background-color: rgb(255, 249, 226);
+  text-decoration: none;
+  padding: 0.95rem 1rem;
+  margin-bottom: 13%;
+  display: block;
+  text-align: center;
   border: 1px solid maroon;
   border-radius: 5px;
-  padding: 0.95rem 1rem;
-  margin-bottom: 1.25rem;
-  list-style-type: none;
-  text-align: center;
   line-height: normal;
   font-size: 1rem;
-  color: #a66;
-  text-decoration: none;
 }
-
+nav a:hover{
+  background-color: rgb(203, 184, 110);
+}
 a{
   outline-color: transparent;
   
 }
 a:link{
-  color: green;
+  color: rgb(128, 94, 0);
   text-decoration: none;
 
 }
