@@ -56,6 +56,9 @@ h1{
   justify-content: center;
   font-size: x-large;
 }
+h2{
+  font-size: medium;
+}
 h1, h2 {
   font-family: 'Roboto Slab', sans-serif;
   word-spacing: 0.1rem;
