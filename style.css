@@ -71,7 +71,6 @@ nav ul{
   list-style-type: none;
   padding: 0%;
   margin: none;
-
 }
 nav a{
   color: #a66;
@@ -91,12 +90,9 @@ nav a:hover{
 }
 a{
   outline-color: transparent;
-  
 }
 a:link{
   color: rgb(128, 94, 0);
-  text-decoration: none;
-
 }
 a:visited{
   color:blueviolet;
@@ -106,7 +102,7 @@ a:focus{
 }
 a:hover{
   color: rgb(224, 98, 20);
-  
+  text-decoration: none;
 }
 a:active{
   box-shadow: 0.125rem 0.125rem 0.3rem maroon;
@@ -115,11 +111,8 @@ section > p{
   line-height: 1.2rem;
 }
 p a {
-  border-bottom: 0.05rem solid #a66;
+  border-bottom: 0.05rem  #a66;
 }
 aside a{
-  border-bottom: 0.05rem solid #a66;  
-  display: flexbox;
-  align-items: center;
-  
+  border-bottom: 0.05rem  #a66;  
 }
