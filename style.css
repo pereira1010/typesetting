@@ -51,7 +51,11 @@ body{
   letter-spacing: normal;
   word-spacing: normal;
 }
-
+h1{
+  display: flex;
+  justify-content: center;
+  font-size: x-large;
+}
 h1, h2 {
   font-family: 'Roboto Slab', sans-serif;
   word-spacing: 0.1rem;
@@ -114,4 +118,5 @@ aside a{
   border-bottom: 0.05rem solid #a66;  
   display: flexbox;
   align-items: center;
+  
 }
