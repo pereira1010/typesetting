@@ -17,7 +17,7 @@ Welcome to the **typesetting** project, done using **css**. This project showcas
 https://github.com/nina-mir/CSC317-assignments/tree/main/typesetting
 
 ## How to view website
-https://pereira1010.github.io/assignment-2-repo/
+https://pereira1010.github.io/typesetting/
 
 ## How to tweak this project for your own uses
 I encourage you to clone and rename this project for your own use, it's a good outline to follow
