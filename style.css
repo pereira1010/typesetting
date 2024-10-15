@@ -83,11 +83,11 @@ nav a{
   background-color: rgb(255, 249, 226);
   text-decoration: none;
   padding: 0.95rem 1rem;
-  margin-bottom: 13%;
+  margin-bottom: 1rem;
   display: block;
   text-align: center;
-  border: 1px solid maroon;
-  border-radius: 5px;
+  border: 0.0625rem solid maroon;
+  border-radius: 0.35rem;
   line-height: normal;
   font-size: 1rem;
   
@@ -98,7 +98,7 @@ nav a:hover{
 }
 
 a{
-  outline-color: transparent;
+  outline-color: none;
 }
 
 a:link{
@@ -120,6 +120,7 @@ a:hover{
 
 a:active{
   box-shadow: 0.125rem 0.125rem 0.3rem maroon;
+  border-radius: 0.35rem;
   font-family: 'Courier New', Courier, monospace;
 }
 
