@@ -114,7 +114,6 @@ section > p{
 }
 p a{
   border-bottom: 0.05rem  #a66;
-
 }
 a[href^="http"]::after{
   content: "";
@@ -128,5 +127,6 @@ a[href^="http"]::after{
   vertical-align: middle;
 }
 aside a{
-  border-bottom: 0.05rem  #a66;  
+  border-bottom: 0.05rem  #a66; 
+  line-height: 1.2rem; 
 }
