@@ -50,6 +50,7 @@ body{
   font-size: 0.625rem;
   letter-spacing: 0.075rem;
   word-spacing: 0.1rem;
+  line-height: 1.5rem;
 }
 
 h1{
@@ -139,7 +140,7 @@ section ol li{
 }
 
 section p + h2{
-  margin-top: 2rem;
+  margin-top: 1.5rem;
 }
 
 p a{
