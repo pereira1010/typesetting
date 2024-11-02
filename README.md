@@ -29,7 +29,6 @@ If you come across a bug, please submit an issue using the issue tab above. To s
 CSS Resources https://www.w3schools.com/css/css_table.asp
 MDN Web Docs https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Typesetting_a_homepage
 List Styling https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Styling_lists
-Link Styling https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Styling_links
 Youtube https://www.youtube.com/watch?v=xjHoKTIwENY
 
 
